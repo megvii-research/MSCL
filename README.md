@@ -10,17 +10,8 @@ Contrastive learning has shown great potential in video representation learning.
 ## Getting Started
 This repo is developed from [MMAction2](https://github.com/open-mmlab/mmaction2) codebase, please follow the install instruction of MMAction2 to setup the environment.
 
-### Prerequisites
-
 Please refer to the document of mmaction2 now.
 
-### Installation Steps
-
-Please refer to the document of mmaction2 now.
-
-## Datasets
-
-Please refer to the document of mmaction2 now.
 
 ## Training
 
