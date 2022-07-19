@@ -1,0 +1,9 @@
+imageio
+matplotlib
+scikit-image
+easydict
+
+path.py
+opencv-python>=3.0,<4.0
+fast_slic
+tensorboardX
