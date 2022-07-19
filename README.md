@@ -1,8 +1,6 @@
 # MSCL
 Official code for [**M**otion **S**ensitive **C**ontrastive **L**earning for Self-supervised Video Representation]() (ECCV2022).
 
-This repo is based on [mmaction2](https://github.com/open-mmlab/mmaction2).
-
 TODO: This Code is under preparation.
 
 ## Introduction
@@ -48,5 +46,4 @@ bash ./tools/test_retrival.sh configs/recognition/ssl_test/test_ssv2_r18.py {you
 TODO
 
 ## Acknowledgement
-
-TODO
+This repo is based on [mmaction2](https://github.com/open-mmlab/mmaction2).
